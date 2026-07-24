@@ -8,8 +8,6 @@ workflows:
         - keystore_credentials # optional, only needed for signed release builds
       vars:
         PACKAGE_NAME: "com.example.androidremote" # change this to your actual applicationId
-      android_signing:
-        - keystore_reference # optional, remove if not signing release builds
       node: default
       java: 17
     scripts:
