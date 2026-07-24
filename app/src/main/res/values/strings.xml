@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Remote</string>
+    <string name="accessibility_service_label">Android Remote</string>
+    <string name="accessibility_service_description">This service allows the app to perform remote gestures like clicking and scrolling to control the device.</string>
+    <string name="status_disabled">Accessibility Permission: DISABLED</string>
+    <string name="status_enabled">Accessibility Permission: ENABLED</string>
+    <string name="btn_enable_permission">Enable Permission</string>
+    <string name="dialog_permission_title">How to Enable Permission</string>
+    <string name="dialog_permission_message">To control this device remotely, please follow these steps:\n\n1. Scroll down in the settings page.\n2. Tap on \"Installed apps\" or \"Downloaded services\".\n3. Find \"Android Remote\".\n4. Turn the switch to \"ON\".</string>
+    <string name="dialog_open_settings">Open Settings</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="searching">Searching!</string>
+</resources>
